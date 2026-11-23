@@ -1,0 +1,17 @@
+tugas,baseline,auroc,lo,hi
+tingkat-kelas,Prior kelas EPC (lookup),0.7209,0.6868,0.7529
+tingkat-kelas,Prior kelas MoA,0.6377,0.5969,0.677
+tingkat-kelas,Prior ATC level-4,0.7819,0.7564,0.806
+tingkat-kelas,Prior ATC level-3,0.8188,0.7976,0.8397
+tingkat-kelas,Prior target bersama,0.7528,0.7221,0.7819
+tingkat-kelas,Prior penyakit saja,0.4696,0.4442,0.4943
+tingkat-kelas,Derajat obat saja,0.4592,0.4353,0.4789
+tingkat-kelas,Regresi logistik (semua fitur),0.9156,0.9018,0.9284
+intra-kelas,Prior kelas EPC (lookup),0.3096,0.2749,0.3429
+intra-kelas,Prior kelas MoA,0.3892,0.3555,0.4238
+intra-kelas,Prior ATC level-4,0.4926,0.4585,0.5266
+intra-kelas,Prior ATC level-3,0.5008,0.4654,0.5356
+intra-kelas,Prior target bersama,0.433,0.3955,0.4692
+intra-kelas,Prior penyakit saja,0.4678,0.4327,0.5039
+intra-kelas,Derajat obat saja,0.475,0.4318,0.516
+intra-kelas,Regresi logistik (semua fitur),0.7341,0.7052,0.7632

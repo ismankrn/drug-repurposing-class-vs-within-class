@@ -1,0 +1,30 @@
+Data licence
+============
+
+The files in data/processed/ and results/ are derived from the DrugCentral
+database, which is distributed under the Creative Commons Attribution
+ShareAlike 4.0 International licence (CC BY-SA 4.0). Those files are therefore
+released under the same licence, and not under the MIT licence that covers the
+code in src/.
+
+CC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0/
+
+Attribution
+-----------
+
+Avram, S., Wilson, T. B., Curpan, R., Halip, L., Borota, A., Bora, A.,
+Bologa, C. G., Holmes, J., Knockel, J., Yang, J. J., and Oprea, T. I.
+DrugCentral 2023 extends human clinical data and integrates veterinary drugs.
+Nucleic Acids Research 51(D1):D1276-D1287, 2023. doi:10.1093/nar/gkac1085
+https://drugcentral.org/
+
+The disease concepts carry Unified Medical Language System (UMLS) Concept
+Unique Identifiers as recorded by DrugCentral in its omop_relationship table.
+The identifiers and the concept names in these files are reproduced from
+DrugCentral and not extracted from the UMLS Metathesaurus itself. A user who
+intends to join these files against the UMLS Metathesaurus needs a licence for
+it from the U.S. National Library of Medicine.
+
+UMLS: Bodenreider, O. The Unified Medical Language System (UMLS): integrating
+biomedical terminology. Nucleic Acids Research 32:D267-D270, 2004.
+doi:10.1093/nar/gkh061

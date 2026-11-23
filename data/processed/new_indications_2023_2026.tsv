@@ -1,0 +1,178 @@
+struct_id	drug_name	umls_cui	concept_name
+1137	febuxostat	C0018099	Gout
+1358	heparin	C2886794	Prevention of catheter related bloodstream infection
+1790	metronidazole	C0024110	Abscess of lung
+1790	metronidazole	C0752180	Bacteroides infection of central nervous system
+2166	pilocarpine	C0033075	Presbyopia
+2568	taurolidine	C2886794	Prevention of catheter related bloodstream infection
+3531	roflumilast	C0036508	Seborrheic dermatitis
+4187	crizotinib	C0334121	Inflammatory myofibroblastic tumor (IMT), ALK-positive
+4187	crizotinib	C4302554	Reactive oxygen species 1 positive non-small cell lung cancer
+4187	crizotinib	C4518436	Anaplastic lymphoma kinase positive anaplastic large cell lymphoma
+4187	crizotinib	C5394780	ALK fusion gene-positive non-small-cell lung cancer
+419	budesonide	C0009324	Ulcerative colitis
+4359	bosutinib	C0023474	Chronic phase chronic myeloid leukemia
+4379	degarelix	C4302896	Advanced hormone-dependent prostate cancer
+4399	eltrombopag	C0002874	Aplastic anemia
+4455	fludeoxyglucose (18F)	C0032743	Positron emission tomography
+4848	somatropin	C0028326	Short stature associated with Noonan syndrome
+4848	somatropin	C4706613	Short stature in SHOX deficiency
+4907	olaparib	C2931456	BRCA positive prostate cancer
+4907	olaparib	C5679802	BRCA mutation-positive ovarian cancer
+4916	aflibercept	C3665926	Myopic choroidal neovascularization
+4924	pembrolizumab	C1292754	Primary mediastinal large B-cell lymphoma
+4975	rituximab	C0024143	Lupus nephritis
+4975	rituximab	C0403397	Refractory nephrotic syndrome
+4993	vonoprazan	C0267055	Erosive esophagitis
+5082	pegaspargase	C0024299	Malignant lymphoma
+5179	brodalumab	C0003872	Psoriatic arthritis
+5179	brodalumab	C0030246	Palmoplantar pustulosis
+5179	brodalumab	C0038013	Ankylosing spondylitis
+5179	brodalumab	C0152081	Pustular psoriasis
+5179	brodalumab	C0748052	Erythrodermic psoriasis
+5216	crisantaspase	C0079748	Precursor cell lymphoblastic lymphoma
+5322	ravulizumab	C4087551	Prevention of relapse of neuromyelitis optica spectrum disorder
+5337	risankizumab	C0030246	Palmoplantar pustulosis
+5346	upadacitinib	C0010346	Crohn's disease
+5349	tenapanor	C1561643	Chronic kidney disease
+5367	trastuzumab deruxtecan	C5400465	HER2 positive non-small cell lung cancer
+5516	tirzepatide	C0028754	Chronic weight management
+5680	futibatinib	C0750952	Biliary tract cancer
+5744	motixafortide	C5399842	Mobilize hematopoietic stem cells for autologous transplantation in patients with multiple myeloma
+5745	momelotinib	C0001815	Primary myelofibrosis
+5745	momelotinib	C0026987	Intermediate or high-risk myelofibrosis
+5745	momelotinib	C3805232	Myelofibrosis due to and following polycythemia vera
+5745	momelotinib	C3805233	Myelofibrosis due to and following essential thrombocythemia
+5746	nedosiran	C0268164	Primary hyperoxaluria, type I
+5747	etrasimod	C0009324	Moderately to severely active ulcerative colitis
+5748	zilucoplan	C0026896	Generalized myasthenia gravis
+5749	vamorolone	C0013264	Duchenne muscular dystrophy
+5750	fruquintinib	C5575133	Metastatic colorectal cancer (mCRC)
+5751	repotrectinib	C4302554	Reactive oxygen species 1 positive non-small cell lung cancer
+5752	capivasertib	C1562029	Hormone receptor pozitive breast cancer
+5752	capivasertib	C2316304	Human epidermal growth factor 2 negative carcinoma of breast
+5753	nirogacestat	C0079218	Progressing desmoid tumors
+5754	iptacopan	C0024790	Paroxysmal nocturnal hemoglobinuria
+5755	eplontersen	C2711693	Polyneuropathy of hereditary transthyretin-mediated amyloidosis
+5756	efbemalenograstim alfa	C0746883	Febrile neutropenia caused by myelosuppressive anti-cancer drugs
+5757	toripalimab	C2931822	Metastatic or with recurrent, locally advanced nasopharyngeal carcinoma (NPC)
+5758	tislelizumab	C0279626	Oesophageal squamous cell carcinoma
+5759	lebrikizumab	C0011615	Moderate to severe atopic dermatitis
+5760	concizumab	C0684275	Prophylactic treatment of hemophilia A and B
+5761	vilobelimab	C5203670	SARS-CoV2-induced acute respiratory distress syndrom
+5762	datopotamab deruxtecan	C1562029	Metastatic hormone receptor-positive cancer; HER2-negative breast cancer
+5763	suzetrigine	C0184567	Acute pain
+5765	gepotidacin	C0042029	Urinary tract infections
+5766	fitusiran	C0684275	Reduce the frequency of bleeding episodes in patients with hemophilia A or B
+5767	atrasentan	C3161650	Primary immunoglobulin A nephropathy
+5768	penpulimab	C2931822	Metastatic non-keratinizing nasopharyngeal carcinoma
+5769	nipocalimab	C0026896	Myasthenia gravis
+5770	avutometinib	C1140680	Ovarian cancer
+5771	defactinib	C1140680	Ovarian cancer
+5773	acoltremon	C0013238	Dry eye disease
+5774	clesrovimab	C0035235	Prevention of respiratory Syncytial Virus (RSV) lower respiratory tract disease
+5775	taletrectinib	C4302554	Reactive oxygen species 1 positive non-small cell lung cancer
+5776	garadacimab	C0019243	Hereditary angioneurotic edema
+5777	linvoseltamab	C0026764	Relapsed or refractory multiple myeloma
+5778	sunvozertinib	C3840002	Non-small cell lung cancer (NSCLC) with epidermal growth factor receptor (EGFR) exon 20 insertion mutations
+5779	sebetralstat	C0019243	Hereditary angioneurotic edema
+5780	dordaviprone	C0555198	Diffuse midline glioma (H3 K27M mutation)\n
+5781	zongertinib	C0007131	Non-squamous non-small cell lung cancer (NSCLC)
+5782	vornorexant	C0917801	Insomnia
+5783	imlunestrant	C0006142	Malignant neoplasm of breast
+5784	paltusotine	C0001206	Acromegaly
+5785	nerandomilast	C1800706	Idiopathic pulmonary fibrosis
+5788	ziftomenib	C0023467	Acute myeloid leukemia with a susceptible NPM1 mutation
+5789	plozasiran	C1274228	Chylomicronemia syndrome
+5790	sevabertinib	C0007131	Non-squamous non-small cell lung cancer (NSCLC)
+5791	brensocatib	C0006267	Non-cystic fibrosis bronchiectasis
+5792	etripamil	C0030590	Paroxysmal supraventricular tachycardia
+5793	zoliflodacin	C0018081	Gonorrhea
+5794	lerodalcibep-liga	C0342882	Familial hypercholesterolemia - heterozygous
+5795	motugivatrep	C0013238	Dry eye disease
+5796	donidalorsen	C0019243	Hereditary angioneurotic edema
+5797	rilzabrutinib	C0272286	Immune thrombocytopenia
+5798	remibrutinib	C0578870	Chronic spontaneous urticaria (CSU)
+5799	depemokimab-ulaa	C0581126	Severe asthma
+5800	aficamten	C0007194	Obstructive hypertrophic cardiomyopathy (HCM)
+5801	sepiapterin	C0751435	Hyperphenylalaninemia (HPA)
+5802	narsoplimab-wuug	C5539174	Hematopoietic stem cell transplant-associated thrombotic microangiopathy
+5803	tradipitant	C0026603	Prevention of vomiting induced by motion
+5804	elinzanetant	C0025319	Vasomotor symptoms due to menopause
+5805	sepetaprost	C0017601	Glaucoma
+5806	elamipretide	C0574083	Improvement of muscle strength for Barth syndrome
+5807	serplulimab	C0149925	Small cell lung cancer
+5808	mirdametinib	C0027831	Neurofibromatosis type 1
+5809	enmetazobactam	C0042029	Complicated urinary tract infections
+5810	letibotulinumtoxina\t	C0191569	Improvement in the appearance of moderate to severe glabellar lines
+5811	resmetirom	C3241937	Nonalcoholic steatohepatitis with liver fibrosis
+5812	aprocitentan	C0020538	Hypertension
+5813	givinostat	C0013264	Duchenne muscular dystrophy
+5814	crovalimab-akkz	C0024790	Paroxysmal nocturnal hemoglobinuria
+5815	sotatercept-csrk	C2973725	Pulmonary arterial hypertension
+5816	danicopan	C0024790	Paroxysmal nocturnal hemoglobinuria
+5817	zenocutuzumab	C0007131	Unresectable or metastatic non-small cell lung cancer harboring a neuregulin 1 (NRG1) gene fusion
+5817	zenocutuzumab	C0281361	Metastatic pancreatic adenocarcinoma harboring a neuregulin 1 gene fusion
+5818	nogapendekin alfa inbakicept	C0005684	BCG-unresponsive nonmuscle invasive bladder cancer (NMIBC)
+5819	tovorafenib	C0555198	Relapsed or refractory pediatric low-grade glioma
+5820	mavorixafor	C0472817	WHIM syndrome
+5821	tarlatamab	C0149925	Small cell lung cancer
+5822	insulin icodec	C0011860	Diabetes mellitus type 2
+5823	imetelstat	C0026986	Low- to intermediate-1 risk myelodysplastic syndrome
+5824	elafibranor	C0008312	Primary biliary cholangitis
+5825	gumarontinib	C0007131	Locally advanced or metastatic non-small cell lung cancer
+5826	ensifentrine	C0024117	Chronic obstructive lung disease
+5827	donanemab-azbt	C0002395	Alzheimer's disease
+5828	deuruxolitinib	C0002171	Alopecia areata
+5829	vorasidenib	C0334579	Grade 2 astrocytoma
+5830	seladelpar	C0008312	Primary biliary cholangitis
+5831	axatilimab-csfr	C0867389	Chronic graft-versus-host disease
+5832	lazertinib	C0007131	Non-small cell lung cancer
+5833	odronextamab	C0024301	Relapsed or refractory follicular lymphoma
+5833	odronextamab	C0079731	Relapsed or refractory large B-cell lymphoma
+5834	palopegteriparatide	C0020626	Hypoparathyroidism
+5835	tasurgratinib	C0750952	Unresectable FGFR2 fusion gene-positive biliary tract cance
+5836	inavolisib	C0006142	Locally advanced or metastatic breast cancer
+5837	zolbetuximab-clzb	C0278701	Locally advanced or metastatic HER2-negative gastric adenocarcinoma
+5837	zolbetuximab-clzb	C0346619	Locally advanced or metastatic HER2-negative gastroesophageal junction adenocarcinoma
+5838	sulopenem etzadroxil	C0042029	Urinary tract infections
+5839	marstacimab-hncq	C0684275	Reduce the frequency of bleeding episodes in patients with hemophilia A or B
+5840	revumenib	C0085669	Relapsed or refractory acute leukemia
+5841	zanidatamab-hrii	C0750952	Unresectable or metastatic HER2-positive biliary tract cancer
+5842	acoramidis	C2711693	Transthyretin-mediated amyloidosis
+5843	cosibelimab-ipdl	C0007137	Locally advanced or metastatic cutaneous squamous cell carcinoma
+5844	crinecerfont	C0001627	Congenital adrenal hyperplasia
+5845	ensartinib	C5394780	Anaplastic lymphoma kinase (ALK)-positive locally advanced or metastatic non-small cell lung cancer
+5846	olezarsen	C1274228	Familial chylomicronemia syndrome
+5847	vanzacaftor	C0010674	Cystic fibrosis
+5848	deutivacaftor	C0010674	Cystic fibrosis
+5849	sugemalimab	C0007131	Non-small cell lung cancer
+5850	efanesoctocog alfa	C0684275	Prophylactic treatment of hemophilia A
+5851	cinaxadamtase alfa	C0034155	Thrombotic thrombocytopenic purpura
+5852	gallium (68Ga) chloride	C0032743	Positron emission tomography
+5853	catumaxomab	C0220656	Malignant ascites in adults with EpCAM-positive epithelial carcinomas
+5854	tegomil fumarate	C0026769	Relapsing remitting  multiple sclerosis
+5855	beremagene geperpavec	C0014527	Dystrophic epidermolysis bullosa
+5856	sipavibart	C5203670	Pre-exposure prophylaxis of COVID-19
+5857	arimoclomol	C0220756	Niemann-Pick disease, type C
+5858	levacetylleucine	C0220756	Niemann-Pick disease, type C
+5859	pegulicianine	C4708071	Fluorescence imaging in breast cancer
+5860	berdazimer	C0026393	Infection caused by Molluscum contagiosum
+5861	flurpiridaz F-18	C0032743	Positron emission tomography for myocardial perfusion imaging
+5862	sibeprenlimab-szsi	C3161650	Primary immunoglobulin A nephropathy
+5863	berahyaluronidase alfa	C0007131	Non-small cell lung cancer
+5863	berahyaluronidase alfa	C0007138	Unresectable urothelial carcinoma
+5863	berahyaluronidase alfa	C0007847	Advanced or recurrent cervical cancer
+5863	berahyaluronidase alfa	C0278678	Metastatic renal cell carcinoma
+5863	berahyaluronidase alfa	C0278996	Malignant tumor of head and/or neck
+5863	berahyaluronidase alfa	C0279626	Squamous cell carcinoma of esophagus
+5863	berahyaluronidase alfa	C0476089	Endometrial carcinoma progressing after chemotherapy
+5863	berahyaluronidase alfa	C0860594	Metastatic malignant melanoma
+5863	berahyaluronidase alfa	C1292754	Primary mediastinal large B-cell lymphoma
+5863	berahyaluronidase alfa	C1333064	Classical Hodgkin lymphoma
+5863	berahyaluronidase alfa	C3539878	Triple negative breast neoplasms
+5863	berahyaluronidase alfa	C4544822	Microsatellite instability-high colorectal cancer
+5863	berahyaluronidase alfa	C4708088	HER2-negative breast cancer
+5864	aceneuramic acid	C1853926	Suppression of the progression of muscular weakness in distal myopathy
+758	cyclophosphamide	C0023418	Leukemia, disease
+990	eflornithine	C4725671	Reduce the risk of relapse for high-risk neuroblastoma (HRNB)

@@ -1,0 +1,30 @@
+# ---------------------------------------------------------------------------
+# Tidak didorong, beserta alasannya.
+# ---------------------------------------------------------------------------
+
+# Naskah: atas permintaan penulis, sumber LaTeX tidak dibagikan di sini.
+paper/
+
+# Salinan basis data pihak lain, 2,9 GB, dan tiga berkas di dalamnya melebihi
+# batas 100 MB per berkas di GitHub. Bangun ulang dengan src/ dari unduhan
+# DrugCentral Anda sendiri; lihat README.
+data/raw/
+data/interim/
+
+# PDF makalah terbitan. Hak ciptanya milik penerbit, bukan penulis repo ini.
+writing-references/
+
+# Catatan kerja internal, bukan kode dan bukan data.
+*.md
+!README.md
+
+# Cadangan dari sesi penyuntingan.
+*.bak-*
+*.bak
+
+# Keluaran dan berkas antara
+figures/
+logs/
+__pycache__/
+*.pyc
+.DS_Store

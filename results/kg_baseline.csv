@@ -1,0 +1,11 @@
+tugas,metode,auroc,lo,hi
+tingkat-kelas,AA  Adamic-Adar,0.7929,0.767,0.8174
+tingkat-kelas,"Katz (beta=0,05)",0.7797,0.7514,0.8066
+tingkat-kelas,SVD (rank 64),0.7646,0.7315,0.7948
+tingkat-kelas,TGT propagasi target,0.7359,0.7065,0.7636
+tingkat-kelas,KG kombinasi,0.8312,0.8023,0.8596
+intra-kelas,AA  Adamic-Adar,0.594,0.5749,0.6121
+intra-kelas,"Katz (beta=0,05)",0.5565,0.5361,0.5772
+intra-kelas,SVD (rank 64),0.5829,0.5606,0.6056
+intra-kelas,TGT propagasi target,0.5597,0.541,0.5793
+intra-kelas,KG kombinasi,0.573,0.5436,0.5999

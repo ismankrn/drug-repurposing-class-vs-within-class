@@ -1,0 +1,6 @@
+tugas,model,qa,tf,cloze,rerata,lo,hi,n_klp
+tingkat-kelas,OLMo-2 1B Base,0.687,0.5455,0.5671,0.5999,0.5747,0.6251,363
+tingkat-kelas,OLMo-2 1B Instruct,0.6918,0.533,0.7337,0.6528,0.6281,0.6786,363
+tingkat-kelas,OLMo-2 7B Instruct,0.8795,0.8134,0.8531,0.8487,0.8272,0.8673,363
+intra-kelas,OLMo-2 1B Base,0.5119,0.5036,0.5131,0.5095,0.493,0.5264,1017
+intra-kelas,OLMo-2 1B Instruct,0.4866,0.5264,0.5344,0.5158,0.498,0.5335,1017
